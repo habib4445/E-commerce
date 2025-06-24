@@ -11,13 +11,13 @@
 
 
 
-<nav class="navbar bg-body-tertiary">
+<nav class="navbar navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand">Mystore</a>
-    <form class="d-flex" role="search">
-      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-      <button class="btn btn-outline-success" type="submit">Search</button>
-    </form>
+    <a class="navbar-brand"><h1>Mystore</h1></a>
+    <span>
+      <i class="fas fa-user-shield"></i>
+      hello,admin
+    </span>
   </div>
 </nav>
   
